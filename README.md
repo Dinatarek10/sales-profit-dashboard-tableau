@@ -38,6 +38,7 @@ The goal was to enable business users to:
 ---
 
 ## 📊 Key Insights
-- Sales and profit fluctuated between 2015–2019, peaking in March 2018.  
-- The top-performing product category was **Paper**, while several categories showed losses.  
+- Sales and profit fluctuated between 2015–2019.  
+- The top-performing product category was **Paper**, while several categories showed losses.
+- Top Regions & Product Categories: The **West region** outperformed all others, especially in **Technology** and **Furniture**. 
 - Regional filter allows users to drill down into performance by geography.  
